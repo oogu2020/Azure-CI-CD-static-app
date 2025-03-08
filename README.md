@@ -1,4 +1,4 @@
-# cicdapp for MLOps Project V18
+# cicdapp for MLOps Project V19
 
 ## Project setup
 ```
@@ -6,7 +6,7 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
+```git
 npm run serve
 ```
 
